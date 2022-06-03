@@ -52,8 +52,13 @@ p{
 
 
 footer{
-    position: relative;
-    top: 445px;
+    position: absolute;
+    top: 620px;
     font-size: 20px;
+}
+
+img{
+    margin-top: 440px;
+    margin-left: 140px;
 }
 
