@@ -1,64 +1,55 @@
-*{
-    color: red;
+* {
+  color: red;
 }
 
-body{
-    background-color: #ecce52;
+body {
+  background-color: #ecce52;
 }
 
-
-h1{
-    text-align: center;
-    position: relative;
-    top: 20px;
-    font-family: 'Raleway', sans-serif;
+h1 {
+  text-align: center;
+  position: relative;
+  top: 20px;
+  font-family: "Raleway", sans-serif;
 }
 
-
-input{
-    display: block;
-    margin: auto;
-    margin-top: 5px;
-    width: 180px;
+input {
+  display: block;
+  margin: auto;
+  margin-top: 5px;
+  width: 180px;
 }
 
-button{
-    display: block;
-    margin: auto;
-    margin-top: 2rem;
-    
+button {
+  display: block;
+  margin: auto;
+  margin-top: 2rem;
 }
 
-
-div{
-    background-color: #ffff51;
-    width: 300px;
-    height: 160px;
-    margin: auto;
-    border-radius: 30px;
-    
+div {
+  background-color: #ffff51;
+  width: 300px;
+  height: 160px;
+  margin: auto;
+  border-radius: 30px;
 }
 
-
-#content{
-    
-    margin-top: 3rem;
+#content {
+  margin-top: 3rem;
 }
 
-p{
-    margin-top: 1px;
-    margin-left: 3rem;
+p {
+  margin-top: 1px;
+  margin-left: 3rem;
 }
 
-
-footer{
-    position: absolute;
-    top: 620px;
-    font-size: 20px;
+footer {
+  position: absolute;
+  top: 620px;
+  font-size: 20px;
 }
 
-img{
-    margin-top: 440px;
-    margin-left: 140px;
+img {
+  margin-top: 440px;
+  margin-left: 140px;
 }
-
